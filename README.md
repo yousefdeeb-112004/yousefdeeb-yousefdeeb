@@ -11,3 +11,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black )
 
 ![User Stats](https://github-readme-stats.vercel.app/api?username=yousefdeeb-112004&show_icons=true&theme=radical )
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdeeb-112004&theme=dracula )
